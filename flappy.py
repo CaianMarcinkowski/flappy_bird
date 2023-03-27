@@ -15,7 +15,7 @@ PIPE_WIDTH = 80
 PIPE_HEIGHT = 500
 
 #GAP ENTRE OS CANOS
-PIPE_GAP = 100
+PIPE_GAP = 120
 
 class Bird(pygame.sprite.Sprite):
     def __init__(self):
